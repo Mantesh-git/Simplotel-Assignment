@@ -1,5 +1,11 @@
 Simplotel Front-End Developer Assignment
 
+#Live Demo
+
+You can view the live website here:  
+👉 [https://mantesh-git.github.io/Simplotel-Assignment/](https://mantesh-git.github.io/Simplotel-Assignment/)
+
+
 
 Assignment Overview
 
@@ -13,11 +19,6 @@ Technologies Used
 - HTML5
 - CSS3
 - Responsive Web Design techniques (media queries, flexible layouts, etc.)
-
-#Live Demo
-
-You can view the live website here:  
-👉 [https://mantesh-git.github.io/Simplotel-Assignment/](https://mantesh-git.github.io/Simplotel-Assignment/)
 
 How to Use
 

@@ -6,8 +6,6 @@ Assignment Overview
 - Created a fully responsive website using **plain HTML and CSS**.
 - Followed the design guidelines exactly as provided in the assignment.
 - Ensured that the website is responsive across **desktop, tablet, and mobile devices**.
-- No JavaScript or external frameworks/libraries (like Bootstrap or Material UI) have been used.
-- Images are optimized and do not pixelate or stretch on resize or zoom.
 - Text content does not overflow at different screen sizes.
 
 Technologies Used
